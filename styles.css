@@ -1,40 +1,9 @@
-.galeria img{
-    width: 100%;
-    padding-top: 20px;
+.iconheader{
+    display:flex;
+    float:right;
 }
-
-
-.galeria img:hover{
-    border: 5px solid #fff;
-}
-
-.card h4{
-    padding-top: 10px;
-}
-
-div.feed{
-    width: 600px;
-    margin: auto;
-}
-
-
-#first-part{
-    display: flex;
-    justify-content: space-between;
-    padding-right: 9px;
-    padding-left: 9px;
-}
-
-#first-part #numbers{
-    color: gray;
-    opacity: 90%;
-    
-
-}
-#second-part img{
-    width: 100%;
-}
-
-#third-part{
-    padding: 10px;
+.iconfooter{
+    display:flex;
+    float:right;
+    width: 30px;
 }
